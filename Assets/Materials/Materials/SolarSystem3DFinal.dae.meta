@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 365b0ffba7092304eb6b05a418baeb54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anel_saturno
+    100002: BezierCircle.001
+    100004: BezierCircle.008
+    100006: BezierCircle.010
+    100008: BezierCircle.011
+    100010: BezierCircle.012
+    100012: BezierCircle.013
+    100014: BezierCircle.014
+    100016: BezierCircle.015
+    100018: BezierCircle.016
+    100020: BezierCircle.017
+    100022: Camera
+    100024: jupiter
+    100026: Light
+    100028: lua
+    100030: marte
+    100032: mercurio
+    100034: netuno
+    100036: saturno
+    100038: Sol
+    100040: //RootNode
+    100042: terra
+    100044: urano
+    100046: venus
+    400000: anel_saturno
+    400002: BezierCircle.001
+    400004: BezierCircle.008
+    400006: BezierCircle.010
+    400008: BezierCircle.011
+    400010: BezierCircle.012
+    400012: BezierCircle.013
+    400014: BezierCircle.014
+    400016: BezierCircle.015
+    400018: BezierCircle.016
+    400020: BezierCircle.017
+    400022: Camera
+    400024: jupiter
+    400026: Light
+    400028: lua
+    400030: marte
+    400032: mercurio
+    400034: netuno
+    400036: saturno
+    400038: Sol
+    400040: //RootNode
+    400042: terra
+    400044: urano
+    400046: venus
+    2000000: Camera
+    2100000: No Name
+    2100002: Material.003
+    2100004: 115.001
+    2100006: Material.001
+    2300000: anel_saturno
+    2300002: BezierCircle.001
+    2300004: BezierCircle.008
+    2300006: BezierCircle.010
+    2300008: BezierCircle.011
+    2300010: BezierCircle.012
+    2300012: BezierCircle.013
+    2300014: BezierCircle.014
+    2300016: BezierCircle.015
+    2300018: BezierCircle.016
+    2300020: jupiter
+    2300022: lua
+    2300024: marte
+    2300026: mercurio
+    2300028: netuno
+    2300030: saturno
+    2300032: Sol
+    2300034: terra
+    2300036: urano
+    2300038: venus
+    3300000: anel_saturno
+    3300002: BezierCircle.001
+    3300004: BezierCircle.008
+    3300006: BezierCircle.010
+    3300008: BezierCircle.011
+    3300010: BezierCircle.012
+    3300012: BezierCircle.013
+    3300014: BezierCircle.014
+    3300016: BezierCircle.015
+    3300018: BezierCircle.016
+    3300020: jupiter
+    3300022: lua
+    3300024: marte
+    3300026: mercurio
+    3300028: netuno
+    3300030: saturno
+    3300032: Sol
+    3300034: terra
+    3300036: urano
+    3300038: venus
+    4300000: BezierCircle.016
+    4300002: BezierCircle.015
+    4300004: BezierCircle.014
+    4300006: BezierCircle.013
+    4300008: BezierCircle.012
+    4300010: BezierCircle.010
+    4300012: BezierCircle.008
+    4300014: BezierCircle.011
+    4300016: lua
+    4300018: saturno
+    4300020: anel_saturno
+    4300022: venus
+    4300024: urano
+    4300026: terra
+    4300028: Sol
+    4300030: netuno
+    4300032: mercurio
+    4300034: marte
+    4300036: jupiter
+    4300038: BezierCircle.001
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
